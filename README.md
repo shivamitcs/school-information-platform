@@ -53,7 +53,7 @@ The platform combines institutional information, admission workflows, academic c
 # 🎓 Educational Experience Platform
 
 The platform delivers a complete digital experience for educational institutions by providing seamless access to school information, admissions, events, communication channels, and academic content.
-
+ 
 ## Core Modules
 
 ### School Information Portal
