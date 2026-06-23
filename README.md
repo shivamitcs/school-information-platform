@@ -6,7 +6,7 @@
 ![i18n](https://img.shields.io/badge/i18n-Multilingual-orange)
 ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Ready-success)
 ![Status](https://img.shields.io/badge/Status-Production-success)
-
+ 
 A modern school website designed to streamline digital admissions, institutional communication, content publishing, announcements, galleries, and multilingual engagement for students, parents, and visitors.
 
 ---
