@@ -14,7 +14,7 @@ A modern school website designed to streamline digital admissions, institutional
 <p align="center">
   <img src="./assets/branding/modern-school-website-banner.png" width="100%" alt="School Information Platform Banner" />
 </p> 
-
+ 
 ---
 
 ## 🌐 Live Platform
